@@ -1,0 +1,9 @@
+**/.idea
+
+**/project/target
+**/project/project
+
+**/target/scala-2.12
+**/target/streams
+**/target/test-reports
+**/target/.history
